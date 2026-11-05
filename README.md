@@ -23,7 +23,7 @@ It combines theoretical study, programming exercises, practical projects, and in
 |---|---|---|
 | OSEC101 | Introduction to Computing and Problem Solving | In progress |
 | OSEC102 | Algorithms and Programming I | In progress |
-| OSEC103 | Mathematics and Logic for Computing I | Not started |
+| OSEC103 | Mathematics and Logic for Computing I | In progress |
 
 ## Study Schedule
 
